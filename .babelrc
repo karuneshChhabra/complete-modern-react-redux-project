@@ -1,0 +1,9 @@
+{
+    "presets": ["@babel/preset-env","@babel/preset-react"],
+    "plugins": ["@babel/plugin-transform-runtime"]
+}
+
+
+
+// @babel/preset-env --> Used to transform ES6 code to common JS code;
+// @babel/preset-react --> Used to deal with JSX problems 
